@@ -1,0 +1,11 @@
+**Database Name: restaurantdb**
+
+**SuperAdmin Login**
+
+Email	: admin@gmail.com
+Password: admin1234
+
+**Empleado Administrador Login**
+
+Email	: yordan@gmail.com
+Password: password
